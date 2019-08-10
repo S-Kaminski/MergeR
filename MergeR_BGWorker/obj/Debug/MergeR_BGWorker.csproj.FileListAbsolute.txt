@@ -1,0 +1,38 @@
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MainWindow.g.cs
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\App.g.cs
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MainWindow.baml
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR_BGWorker.Properties.Resources.resources
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR_BGWorker.csproj.GenerateResource.Cache
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR_BGWorker.csproj.CoreCompileInputs.cache
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR_BGWorker.csprojResolveAssemblyReference.cache
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\bin\Debug\MergeR.exe.config
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\bin\Debug\MergeR.exe.manifest
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\bin\Debug\MergeR.application
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\bin\Debug\MergeR.exe
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\bin\Debug\MergeR.pdb
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR_MarkupCompile.cache
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR_MarkupCompile.lref
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR.g.resources
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR.exe.manifest
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR.application
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR.exe
+C:\Users\szyka\source\repos\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR.pdb
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\bin\Debug\MergeR.exe.config
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\bin\Debug\MergeR.exe.manifest
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\bin\Debug\MergeR.application
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\bin\Debug\MergeR.exe
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\bin\Debug\MergeR.pdb
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR_BGWorker.csprojResolveAssemblyReference.cache
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MainWindow.g.cs
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\App.g.cs
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR_MarkupCompile.cache
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR_MarkupCompile.lref
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MainWindow.baml
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR.g.resources
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR_BGWorker.Properties.Resources.resources
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR_BGWorker.csproj.GenerateResource.cache
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR_BGWorker.csproj.CoreCompileInputs.cache
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR.exe.manifest
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR.application
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR.exe
+G:\MEGA\Visual Studio Source Codes\MergeR_BGWorker\MergeR_BGWorker\obj\Debug\MergeR.pdb
